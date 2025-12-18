@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+frontend/.next
+frontend/node_modules
+backend/__pycache__
+ingestion/__pycache__
+__pycache__
